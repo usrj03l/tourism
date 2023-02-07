@@ -1,0 +1,9 @@
+.login {
+  display: flex;
+  justify-content: center;
+}
+
+.dist{
+    margin-top: 2%;
+    margin-left: 2%;
+}
