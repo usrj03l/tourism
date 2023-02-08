@@ -1,9 +1,35 @@
-.login {
-  display: flex;
-  justify-content: center;
+#district {
+  margin-top: 7%;
+  text-align: center;
+  
 }
 
-.dist{
-    margin-top: 2%;
-    margin-left: 2%;
+.head {
+  text-align: center;
+  padding: 3% 0% 3%;
+}
+
+.dist {
+  margin-top: 5%;
+  margin-left: 3%;
+}
+
+#district h1{
+  text-decoration: underline;
+}
+
+.top {
+  margin-top: 5%;
+  padding: 3% 2%;
+  background-color: rgb(49, 7, 35);
+}
+
+.logo{
+  height: 100px;
+  width: 150px;
+  padding-left: 5%;
+}
+
+.items{
+  padding-right: 5%;
 }
