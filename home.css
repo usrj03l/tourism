@@ -30,6 +30,21 @@
   padding-left: 5%;
 }
 
+.card-img-top{
+height: 180px;
+}
+
 .items{
-  padding-right: 5%;
+  padding-right: 10%;
+}
+
+.footer{
+  padding: 2%;
+  margin-top: 3%;
+  background-color: rgb(173, 196, 238);
+  text-align: center;
+}
+
+.foot-icon{
+  padding-left: 2%;
 }
